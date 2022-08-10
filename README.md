@@ -40,8 +40,8 @@
 
 <div align="center">
 	<h3>✨Stats✨</h3>
-	<p><img src="https://github-readme-stats.vercel.app/api?username=sumun3464&amp;theme=dark&amp;show_icons=true" alt="sumun3464&#39;s GitHub stats">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumun3464&amp;layout=compact&amp;theme=dark" alt="Top Langs"></p>
+	<img src="https://github-readme-stats.vercel.app/api?username=sumun3464&amp;theme=dark&amp;show_icons=true" alt="sumun3464&#39;s GitHub stats">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumun3464&amp;layout=compact&amp;theme=dark" alt="Top Langs">
 </div>
 <br>
 
