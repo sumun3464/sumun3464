@@ -3,14 +3,9 @@
 </div>
 
 <h3>🌱About Me</h3>
-<p>
-  <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
-  <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
-  <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
-</p>
-<a href="https://sumun3464.github.io">
+<a href="https://github.com/sumun3464">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-181717?style=flat&logo=github&link=https://sumun3464.github.io"
+        src="http://img.shields.io/badge/GitHub-181717?style=flat&logo=github&link=https://sumun3464.github.io"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </a> <a href="mailto:sumun3464@gmail.com">
@@ -18,12 +13,12 @@
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumun3464@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-#181717
-<a href="https://github.com/sumun3464">
+<a href="https://sumun3464.github.io">
     <img 
-        src="http://img.shields.io/badge/GitHub-181717?style=flat&logo=github&link=https://sumun3464.github.io"
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://sumun3464.github.io"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
 
 <h3>🛠️Tech Stack</h3> 
 <p>
